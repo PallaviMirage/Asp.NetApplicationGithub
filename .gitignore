@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/ASP.Net Core App/.vs/ASP.Net Core App
+/ASP.Net Core App/bin/Debug/netcoreapp3.1
+/ASP.Net Core App/obj
