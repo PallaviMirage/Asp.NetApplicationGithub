@@ -32,7 +32,7 @@ namespace ASP.Net_Core_App
             {
                 endpoints.MapGet("/", async context =>
                 {
-                    await context.Response.WriteAsync("Hello All.. Its Github KSS Session");
+                    await context.Response.WriteAsync("Hello All.. Its Github .. ");
                 });
             });
         }
